@@ -1,2 +1,6 @@
-# Back-Front-sensor-device
-Our project uses sensors of a mobile/smart phone to prevent industrial accidents or to get immidiate help if they  do happen. The device will keep track of environmental conditions under which equipments work such as  Pressure, Temperature, Gravity, Acceleration, Light Intensity, Magnetic Field, Rotation vector, etc. If any of  the equipments that can lead to a big disaster and huge loss fail, this application will detect all possibility of  accidents and will alert the concerned authorities beforehand by SMS and Email. A regular report monitoring  the working of automated devices and equipments will be generated and stored in the database and can be  displayed in charts and graphs.  With the help of this interactive display of reports in form of Graphs, charts, and bar notation, Management  can keep track of all the devices and their working.
+# How to Exploit All Sensors of Your Mobile Phone as an IoT Device
+
+Below the link for more details:
+
+https://dzone.com/articles/how-to-exploit-all-sensors-of-your-mobile-phone-as-1
+
